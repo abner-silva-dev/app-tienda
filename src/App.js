@@ -28,7 +28,6 @@ let newArticle = {
 };
 
 let updateArticle = {};
-// let stringInputSearch;
 
 const update = function (articlesArr, id) {
   return articlesArr.filter((art) => !(art.id === id));
