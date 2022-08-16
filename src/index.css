@@ -267,32 +267,3 @@ span {
   stroke: #c2255c;
   width: 30px;
 }
-
-footer {
-  width: 100%;
-  background-color: #212529;
-  height: 15rem;
-  margin-top: 26rem;
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  align-items: center;
-  justify-content: space-between;
-  font-size: 20px;
-}
-
-footer p {
-  color: #fff;
-  padding: 3rem;
-  justify-self: center;
-}
-footer div {
-  display: flex;
-  justify-content: center;
-  gap: 4rem;
-}
-
-footer p a:link,
-footer p a:visited {
-  color: #fff;
-  text-decoration: none;
-}
