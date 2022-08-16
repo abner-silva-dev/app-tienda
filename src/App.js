@@ -1,6 +1,3 @@
-import { useState, useContext } from "react";
-import { ArticlesContext } from "./context/articlesContex";
-
 import Header from "./components/header/header.component";
 import ModalAddArticles from "./components/modal-add-articles/modal-add-articles.component";
 import ProductsGrid from "./components/products-grid/products-grid.component";
